@@ -1,0 +1,14 @@
+{
+  "name": "teapot",
+  "version": "1.0.0",
+  "description": "Don't ask a teapot to brew a coffee",
+  "main": "server.js",
+  "repository": "https://github.com/sagarhani/teapot",
+  "author": "Sagar Hani",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.16.2"
+  }
+}
